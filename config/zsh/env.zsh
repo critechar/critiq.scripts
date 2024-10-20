@@ -9,9 +9,6 @@ alias ls='eza'
 alias rg='rg --sort-files'
 alias tree='eza -lTL2'
 alias tree3='eza -lTL3'
-if [[ $TERM == "xterm-kitty" ]]; then
-    alias vim='vim -T kitty'
-fi
 
 #export TERM=xterm-256color
 export CARGO_HOME=${HOME}/.cache/cargo

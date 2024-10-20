@@ -3,39 +3,57 @@
 ! X.org apps bg/fg
 *background:  #1A1C1D
 *foreground:  #E6E6E6
+!background   #1E1E1E
+!foreground   #F5F1EC
 
 *cursorColor: #D6D6D6
 
 ! black & dark grey
 *color0:  #222946
 *color8:  #8C8B89
+!color0   #171421
+!color8   #5E5C64
 
 ! red & bright red
 *color1:  #B32323
 *color9:  #DC2C2C
+!color1   #C01C28
+!color9   #F66151
 
 ! green & bright green
 *color2:  #1AAA13
 *color10: #5DCE33
+!color2   #26A269
+!color10  #33DA7A
 
 ! yellow & bright yellow
 *color3:  #FF9F3E
 *color11: #E6CB29
+!color3   #A2734C
+!color11  #E9AD0C
 
 ! blue & bright blue
 *color4:  #4957F3
 *color12: #4D79FF
+!color4   #12488B
+!color12  #2A7BDE
 
 ! magenta & bright magenta
 *color5:  #BF3E94
 *color13: #B641CC
+!color5   #A347BA
+!color13  #C061CB
 
 ! cyan & bright cyan
 *color6:  #09A5B3
 *color14: #4CCCF9
+!color6   #2AA1B3
+!color14  #33C7DE
 
 ! light grey & white
 *color7:  #AEAEAE
 *color15: #DBDDE4
+!color7   #D0CFCC
+!color15  #F0EFEB
 
 ! vim:ft=xdefaults:
